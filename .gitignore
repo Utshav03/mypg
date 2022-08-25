@@ -1,0 +1,25 @@
+#IDE
+/nbproject
+/.idea
+
+#WordPress
+/www/.htaccess
+/www/old-willrich/
+/www/wp-config.php
+/www/wp-content/cache/
+/www/wp-content/uploads/
+/www/wp-snapshots/
+#Sometimes WP configured to have "media" as "uploads" folder
+/www/media/
+/www/maint
+
+#robots
+/www/robots.txt
+
+#logs
+error_log
+www/wp-content/backupwordpress-5846644f65-backups/
+www/wp-content/ai1wm-backups/*
+www/wp-content/wflogs/*
+www/wp-content/backupwordpress-76cd7b6071-backups/*
+www/wp-content/plugins/all-in-one-wp-migration/storage/*

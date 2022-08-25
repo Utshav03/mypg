@@ -1,0 +1,33 @@
+.elementor-51 .elementor-element.elementor-element-bed89eb > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-51 .elementor-element.elementor-element-bed89eb > .elementor-background-overlay{background-image:url("http://localhost/mypg/wp-content/wp-content/uploads/sites/224/2020/10/Group_1-1.png");background-position:center center;background-size:cover;opacity:1;}.elementor-51 .elementor-element.elementor-element-bed89eb{margin-top:0px;margin-bottom:0px;padding:40px 35px 0px 35px;}.elementor-51 .elementor-element.elementor-element-11748c6.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-51 .elementor-element.elementor-element-11748c6 > .elementor-element-populated{border-style:solid;border-width:0px 0px 1px 0px;border-color:#B1B1B380;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-51 .elementor-element.elementor-element-11748c6 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-51 .elementor-element.elementor-element-11748c6 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 40px 0px;}.elementor-51 .elementor-element.elementor-element-b435993{width:auto;max-width:auto;}.elementor-51 .elementor-element.elementor-element-e5d0ab0{text-align:left;width:auto;max-width:auto;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-menu-depth-0 > .aux-item-content{color:var( --e-global-color-text );font-family:"DM Sans", Inconsolata;font-size:125px;font-weight:700;text-transform:capitalize;letter-spacing:-5px;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-primary );}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-menu .aux-menu-item > .aux-item-content{font-family:var( --e-global-typography-secondary-font-family ), Inconsolata;padding:0px 0px 0px 150px;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-menu .aux-master-menu{text-align:left;}@media(max-width:1024px){.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-menu-depth-0 > .aux-item-content{font-size:90px;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-menu .aux-menu-item > .aux-item-content{padding:0px 0px 0px 100px;}}@media(max-width:767px){.elementor-51 .elementor-element.elementor-element-11748c6 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 20px 0px;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-menu-depth-0 > .aux-item-content{font-size:56px;}.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-menu .aux-menu-item > .aux-item-content{padding:0px 0px 0px 40px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-e5d0ab0 */.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-master-menu .aux-menu-item{
+    text-align: left;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-burger::after{
+    display: none;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 ul li{
+    padding: 20px 0;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-burger .mid-line{
+    margin: 8px 0;
+    width: 60%;
+    margin-left: auto;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-burger::before , .elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-burger .mid-line{
+    border-color: #111 !important;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-popup {
+    background-color: #111;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 .aux-fs-popup:after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-image:url(http://localhost/mypg/demos/wp-content/wp-content/uploads/sites/224/2020/10/Group_1-1.png);
+    display: inline-block;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 ul .aux-item-content{
+    color: #fff !important;
+}
+.elementor-51 .elementor-element.elementor-element-e5d0ab0 ul li:hover .aux-item-content{
+    color: #0032FF !important;
+}/* End custom CSS */
